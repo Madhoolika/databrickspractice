@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,amount,status,city
+1001,201,2023-06-01,499.0,delivered,mumbai
+1002,202,2023-06-02,899.0,cancelled,bangalore
+1003,203,2023-06-03,,delivered,hyderabad
+1004,204,2023-06-04,1299.0,delivered,delhi
+1005,205,2023-06-05,759.0,cancelled,chennai
